@@ -1,3 +1,4 @@
 new a line in file2
 new two line in file2
 new three line in file2
+4 line
